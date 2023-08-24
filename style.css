@@ -1,0 +1,21 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0833a8;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #c21b39;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(99, 5, 99);
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
